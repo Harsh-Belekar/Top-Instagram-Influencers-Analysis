@@ -11,3 +11,25 @@ The goal is to understand influencer **reach, engagement, growth patterns, and r
 The dataset ranks influencers based on follower count and includes engagement and performance indicators to support **marketing, brand strategy, and influencer selection decisions**.
 
 ---
+
+## 🗂️ Project Structure
+
+```
+├── README.md
+├── Tableau Analysis/
+│   ├── Engagement_Growth_&_Influence_Analysis.png
+│   ├── Influencer_Performance_&_Reach_Overview.png
+│   └── Top Instagram Influencers Analysis.twb
+├── SQL Analysis/
+│   ├── advanced_analysis.sql
+│   ├── data_import.sql
+│   ├── eda_queries.sql
+│   └── schema.sql
+├── notebook/
+│   └── Instagram_data_cleaning.ipynb
+└── data/
+    ├── instagram_influencers_cleaned.csv
+    └── instagram_influencers_raw.csv
+```
+
+---
