@@ -50,3 +50,16 @@ The dataset contains **top Instagram influencers ranked by followers**, with the
 - **country** – Country of origin  
 
 ---
+
+## 🧹 Data Cleaning (Python – Jupyter Notebook)
+
+Data preprocessing was performed using **Python (Pandas)**:
+
+- Converted values like `3.3k`, `475.8m`, `57.4b` into numeric format  
+- Removed `%` symbol from engagement rate  
+- Fixed data types for SQL & Tableau compatibility  
+- Saved a clean, analysis-ready dataset  
+
+📂 Notebook: `notebook/Instagram_data_cleaning.ipynb`
+
+---
