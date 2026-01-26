@@ -33,3 +33,20 @@ The dataset ranks influencers based on follower count and includes engagement an
 ```
 
 ---
+
+## 📁 Dataset Description
+
+The dataset contains **top Instagram influencers ranked by followers**, with the following attributes:
+
+- **rank** – Influencer rank based on follower count  
+- **channel_info** – Instagram username  
+- **influence_score** – Overall influence metric  
+- **posts** – Total posts published  
+- **followers** – Total followers  
+- **avg_likes** – Average likes per post  
+- **engagement_rate_60_days** – Engagement rate over last 60 days  
+- **new_post_avg_like** – Average likes on recent posts  
+- **total_likes** – Total likes across all posts  
+- **country** – Country of origin  
+
+---
