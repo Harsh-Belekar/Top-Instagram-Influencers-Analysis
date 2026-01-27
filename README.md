@@ -63,3 +63,7 @@ Data preprocessing was performed using **Python (Pandas)**:
 📂 Notebook: `notebook/Instagram_data_cleaning.ipynb`
 
 ---
+
+## 📊 Tableau Analysis & Dashboards Preview
+
+📌 These dashboards summarize influencer performance, engagement, growth trends, and country-level insights.
