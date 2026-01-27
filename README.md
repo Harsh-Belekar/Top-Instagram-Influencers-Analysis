@@ -67,3 +67,7 @@ Data preprocessing was performed using **Python (Pandas)**:
 ## 📊 Tableau Analysis & Dashboards Preview
 
 📌 These dashboards summarize influencer performance, engagement, growth trends, and country-level insights.
+
+### 🟦 Influencer Performance & Reach Overview
+
+![Influencer Performance & Reach Overview](Tableau%20Analysis/Influencer_Performance_&_Reach_Overview.png)
