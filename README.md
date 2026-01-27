@@ -71,3 +71,10 @@ Data preprocessing was performed using **Python (Pandas)**:
 ### 🟦 Influencer Performance & Reach Overview
 
 ![Influencer Performance & Reach Overview](Tableau%20Analysis/Influencer_Performance_&_Reach_Overview.png)
+
+**Key Insights:**
+- Overall reach and follower distribution
+- Top influencers by influence score
+- Country-wise influencer presence
+- Influence score distribution
+
