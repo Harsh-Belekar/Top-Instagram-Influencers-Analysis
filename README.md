@@ -78,3 +78,5 @@ Data preprocessing was performed using **Python (Pandas)**:
 - Country-wise influencer presence
 - Influence score distribution
 
+### 🟨 Engagement, Growth & Influence Analysis
+![Engagement, Growth & Influence Analysis](Tableau%20Analysis/Engagement_Growth_&_Influence_Analysis.png)
