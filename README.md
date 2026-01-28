@@ -87,3 +87,7 @@ Data preprocessing was performed using **Python (Pandas)**:
 - Like-to-follower ratio comparison
 - Country-level engagement patterns
 
+📂 Tableau Workbook:  
+`Tableau Analysis/Top Instagram Influencers Analysis.twb`
+
+---
