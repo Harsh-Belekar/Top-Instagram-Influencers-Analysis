@@ -80,3 +80,10 @@ Data preprocessing was performed using **Python (Pandas)**:
 
 ### 🟨 Engagement, Growth & Influence Analysis
 ![Engagement, Growth & Influence Analysis](Tableau%20Analysis/Engagement_Growth_&_Influence_Analysis.png)
+
+**Key Insights:**
+- Engagement rate vs follower count
+- Growth trends in new post likes
+- Like-to-follower ratio comparison
+- Country-level engagement patterns
+
