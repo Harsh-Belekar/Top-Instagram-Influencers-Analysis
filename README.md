@@ -95,3 +95,7 @@ Data preprocessing was performed using **Python (Pandas)**:
 ## 🐘 SQL Analysis (PostgreSQL)
 
 SQL was used for **structured data exploration and advanced insights**.
+
+### 🔹 Database Setup
+- Schema creation (`schema.sql`)
+- CSV import (`data_import.sql`)
