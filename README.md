@@ -91,3 +91,7 @@ Data preprocessing was performed using **Python (Pandas)**:
 `Tableau Analysis/Top Instagram Influencers Analysis.twb`
 
 ---
+
+## 🐘 SQL Analysis (PostgreSQL)
+
+SQL was used for **structured data exploration and advanced insights**.
