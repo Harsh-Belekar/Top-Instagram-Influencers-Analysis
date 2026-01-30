@@ -99,3 +99,9 @@ SQL was used for **structured data exploration and advanced insights**.
 ### 🔹 Database Setup
 - Schema creation (`schema.sql`)
 - CSV import (`data_import.sql`)
+
+### 🔹 Exploratory Data Analysis
+- Follower distribution analysis  
+- Top influencers by influence score  
+- Engagement rate comparison  
+- High-engagement, low-follower influencers  
