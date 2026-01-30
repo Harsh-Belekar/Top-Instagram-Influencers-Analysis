@@ -105,3 +105,7 @@ SQL was used for **structured data exploration and advanced insights**.
 - Top influencers by influence score  
 - Engagement rate comparison  
 - High-engagement, low-follower influencers  
+
+### 🔹 Advanced Analysis
+- Growth potential using new post performance  
+- Country-wise average influence score
