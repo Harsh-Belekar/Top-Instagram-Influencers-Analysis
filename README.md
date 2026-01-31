@@ -117,3 +117,13 @@ SQL was used for **structured data exploration and advanced insights**.
 - `advanced_analysis.sql`
 
 ---
+
+## 🔍 Key Insights
+
+- High follower count does not always guarantee high engagement  
+- Several mid-tier influencers show strong growth potential  
+- Engagement rates vary significantly across countries  
+- Emerging influencers can outperform celebrities in engagement efficiency  
+- Influence score is a stronger metric than followers alone
+
+---
