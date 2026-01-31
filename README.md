@@ -109,3 +109,11 @@ SQL was used for **structured data exploration and advanced insights**.
 ### 🔹 Advanced Analysis
 - Growth potential using new post performance  
 - Country-wise average influence score
+
+📂 SQL Scripts:
+- `schema.sql`
+- `data_import.sql`
+- `eda_queries.sql`
+- `advanced_analysis.sql`
+
+---
