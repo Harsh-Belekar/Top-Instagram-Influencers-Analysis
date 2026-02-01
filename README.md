@@ -127,3 +127,6 @@ SQL was used for **structured data exploration and advanced insights**.
 - Influence score is a stronger metric than followers alone
 
 ---
+
+## 🛠️ Tools & Technologies
+
