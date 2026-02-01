@@ -133,3 +133,4 @@ SQL was used for **structured data exploration and advanced insights**.
 - **Tableau** – Data visualization & dashboards
 - **PostgreSQL** – SQL querying & analysis  
 - **Python (Pandas)** – Data cleaning & preprocessing 
+- **Jupyter Notebook** – Data preparation workflow
