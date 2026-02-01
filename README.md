@@ -131,3 +131,4 @@ SQL was used for **structured data exploration and advanced insights**.
 ## 🛠️ Tools & Technologies
 
 - **Tableau** – Data visualization & dashboards
+- **PostgreSQL** – SQL querying & analysis  
