@@ -134,3 +134,7 @@ SQL was used for **structured data exploration and advanced insights**.
 - **PostgreSQL** – SQL querying & analysis  
 - **Python (Pandas)** – Data cleaning & preprocessing 
 - **Jupyter Notebook** – Data preparation workflow
+
+## 🚀 How to Use This Project
+
+1. Review raw and cleaned datasets in the `data/` folder 
