@@ -140,3 +140,4 @@ SQL was used for **structured data exploration and advanced insights**.
 1. Review raw and cleaned datasets in the `data/` folder 
 2. Explore SQL analysis using PostgreSQL scripts
 3. Open Tableau workbook (`.twb`) to interact with dashboards  
+4. Refer to dashboard images for quick insights
