@@ -141,3 +141,9 @@ SQL was used for **structured data exploration and advanced insights**.
 2. Explore SQL analysis using PostgreSQL scripts
 3. Open Tableau workbook (`.twb`) to interact with dashboards  
 4. Refer to dashboard images for quick insights
+
+---
+
+## 💼 Use Case & Applications
+
+- Influencer marketing strategy  
