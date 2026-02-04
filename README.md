@@ -147,3 +147,4 @@ SQL was used for **structured data exploration and advanced insights**.
 ## 💼 Use Case & Applications
 
 - Influencer marketing strategy  
+- Brand collaboration decisions
