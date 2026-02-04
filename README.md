@@ -149,3 +149,5 @@ SQL was used for **structured data exploration and advanced insights**.
 - Influencer marketing strategy  
 - Brand collaboration decisions
 - Social media performance benchmarking  
+- Data analytics portfolio project
+
