@@ -151,3 +151,9 @@ SQL was used for **structured data exploration and advanced insights**.
 - Social media performance benchmarking  
 - Data analytics portfolio project
 
+---
+
+## 🧑‍💻 Author
+
+**👤 Harsh Belekar**  
+📍 Data Analyst | Python | SQL | Power BI | Excel | Data Visualization  
