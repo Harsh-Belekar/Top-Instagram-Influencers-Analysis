@@ -163,3 +163,4 @@ SQL was used for **structured data exploration and advanced insights**.
 
 ---
 
+⭐ *If you found this project helpful, feel free to star the repo and connect with me for collaboration!*
