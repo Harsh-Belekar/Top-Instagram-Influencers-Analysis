@@ -16,6 +16,7 @@ The dataset ranks influencers based on follower count and includes engagement an
 
 ```
 ├── README.md
+├── Top Instagram Influencers Analysis Project Report.pdf
 ├── Tableau Analysis/
 │   ├── Engagement_Growth_&_Influence_Analysis.png
 │   ├── Influencer_Performance_&_Reach_Overview.png
