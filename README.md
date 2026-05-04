@@ -1,5 +1,6 @@
 # 🚀 Top Instagram Influencers Analysis  
-**Tableau • PostgreSQL • Data Analysis Project**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql) ![SQL](https://img.shields.io/badge/SQL-Analysis-orange) ![Tableau](https://img.shields.io/badge/Tableau-Dashboard-blue?logo=tableau) ![Python](https://img.shields.io/badge/Python-Data%20Cleaning-yellow?logo=python) ![EDA](https://img.shields.io/badge/EDA-Analysis-green) ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ---
 
