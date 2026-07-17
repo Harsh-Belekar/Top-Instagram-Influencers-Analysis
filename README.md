@@ -17,18 +17,24 @@ The dataset ranks influencers based on follower count and includes engagement an
 
 ```
 ├── README.md
-├── Top Instagram Influencers Analysis Project Report.pdf
+│
+├── Docs/
+│   └── Top Instagram Influencers Analysis Project Report.pdf
+│
 ├── Tableau Analysis/
 │   ├── Engagement_Growth_&_Influence_Analysis.png
 │   ├── Influencer_Performance_&_Reach_Overview.png
 │   └── Top Instagram Influencers Analysis.twb
+│
 ├── SQL Analysis/
 │   ├── advanced_analysis.sql
 │   ├── data_import.sql
 │   ├── eda_queries.sql
 │   └── schema.sql
+│
 ├── notebook/
 │   └── Instagram_data_cleaning.ipynb
+│
 └── data/
     ├── instagram_influencers_cleaned.csv
     └── instagram_influencers_raw.csv
